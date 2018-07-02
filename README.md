@@ -4,3 +4,4 @@ Este projeto foi criado com [Create React App](https://github.com/facebookincuba
 
 - Subindo arquivos do ReactJs e limpando pasta.
 - Adicionando banco de dados fictício e modulo json-server.
+- Adicionando novo layout na aplicação.
